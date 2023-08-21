@@ -11,7 +11,7 @@
 ```javascript
 const alexiessaenz = {
   pronouns: "He" | "Him",
-  code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
+  code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java ☕", "C++ 🥷"],
   askMeAbout: ["web dev", "embed dev", "app dev"],
   technologies: {
     backEnd: {
