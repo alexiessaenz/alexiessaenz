@@ -9,7 +9,7 @@
 - 📫 How to reach me alexiessaenz.me@gmail.com ...
 
 ```javascript
-const conejerock = {
+const alexiessaenz = {
   pronouns: "He" | "Him",
   code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java", "C++ 🥷"],
   askMeAbout: ["web dev", "embed dev", "app dev"],
