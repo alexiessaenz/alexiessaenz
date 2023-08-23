@@ -11,20 +11,20 @@
 ```javascript
 const alexiessaenz = {
   pronouns: "He" | "Him",
-  code: ["Typescript ", "PHP 🐘", "Python 🐍", "Java ☕", "C++ 🥷"],
-  askMeAbout: ["web dev", "embed dev", "app dev"],
+  code: ["TS ", "PHP 🐘", "Python 🐍", "Java ☕", "C++ 🥷"],
+  askMeAbout: ["web dev", "Jbackend dev", "app dev"],
   technologies: {
     backEnd: {
       js: ["Express", "NodeJS"],
-      php: ["Symfony"],
-      java: ["Spring"]
+      data: ["Jpa, Hibernate"],
+      java: ["Spring 🌱, Kotlin, Dart"]
     },
     frontEnd: {
-      js: ["NuxtJS", "Vue", "React"],
+      js: ["NuxtJS", "Angular", "React ⚛️"],
       native: ["React Native", "Android SDK"],
     },
-    databases: ["MySQL", "PostgreSQL", "mongo", "Firestore"],
-    misc: ["Docker🐳", "Firebase", "Cordova"],
+    databases: ["MySQL", "PostgreSQL", "Oracle", "Microsoft SQl Server"],
+    misc: ["Docker🐳", "Ubuntu Server", "Bash", "PWSH"],
   },
   architecture: [
     "Server Side Rendering",
