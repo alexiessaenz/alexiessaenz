@@ -12,11 +12,11 @@
 const alexiessaenz = {
   pronouns: "He" | "Him",
   code: ["TS ", "PHP 🐘", "Python 🐍", "Java ☕", "C++ 🥷"],
-  askMeAbout: ["web dev", "Jbackend dev", "app dev"],
+  askMeAbout: ["Front dev", "Backend dev", "app dev", "Mobile dev"],
   technologies: {
     backEnd: {
       js: ["Express", "NodeJS"],
-      data: ["Jpa, Hibernate"],
+      data: ["Jpa, Hibernate, JDBC"],
       java: ["Spring 🌱, Kotlin, Dart"]
     },
     frontEnd: {
@@ -30,10 +30,13 @@ const alexiessaenz = {
     "Server Side Rendering",
     "Hexagonal Architecture",
     "CQRS",
+    "MVVM",
+    "MVC",
+    "Ncapas",
   ],
   currentFocus: "Building rewards social network",
   funFact:
-    "To understand what recursion is, you must first understand what is recursion.",
+    "To understand what universe ♾️ is, you must first understand what is life 🌱.",
 };
 ```
 
