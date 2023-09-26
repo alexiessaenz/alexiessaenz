@@ -9,6 +9,24 @@
 - 📫 How to reach me alexiessaenz.me@gmail.com ...
 
 ```javascript
+
+  .  . .  .  . .  .  . .  .  . .  .  .  
+   .  ;88%  .      .       .  %88:  .  .
+     .  : :    . .    . .    t ;;.      
+ .     .%8;8 ;S8Xt:..:tX8X; 8;8%  .  .  
+   . .  t XtXS:.         :X8;8;;   .   .
+  .   ;;8 ..  .          .  . .@ :   .  
+    %%8.                        .S;t    
+  :t@    X8 @@            8@ 8S.   8... 
+ .@.     8   X            X  .8     ::  
+.t:.    .@t8St            t;@tX..   .t:.
+.;:.    ..                    ..    ..tt
+X.                                   ..%
+8S8%8%8@888;8;8t8t8%8;8S8%.X88t8S8@8%88%
+8%8%8@8t8S8888t8S8%8t8@8%8;8:8X8%8t8@8S8
+t ;.;   ;  ..%.:.t.;.::%:t   S     ;   X
+  .                 . .                 
+
 const alexiessaenz = {
   pronouns: "He" | "Him",
   code: ["TS ", "PHP 🐘", "Python 🐍", "Java ☕", "C++ 🥷"],
@@ -17,10 +35,10 @@ const alexiessaenz = {
     backEnd: {
       js: ["Express", "NodeJS"],
       data: ["Jpa, Hibernate, JDBC"],
-      java: ["Spring 🌱, Kotlin, Dart"]
-    },
-    frontEnd: {
-      js: ["NuxtJS", "Angular", "React ⚛️"],
+      java: ["Spring 🌱, Kotlin, Dart"]   ⠀⠀⠀   ⠀ ⠀⠙⢷⣤⣤⣴⣶⣶⣦⣤⣤⡾⠋⠀⠀
+    },⠀⠀                                      ⠀⠀⠀⠀ ⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦                 
+    frontEnd: {                              ⠀⠀   ⣼⣿⣿⣉⣹⣿⣿⣿⣿⣏⣉⣿⣿⣧
+      js: ["NuxtJS", "Angular", "React ⚛️"], ⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
       native: ["React Native", "Android SDK"],
     },
     databases: ["MySQL", "PostgreSQL", "Oracle", "Microsoft SQl Server"],
